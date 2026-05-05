@@ -1,2 +1,2 @@
 # Dark-Matter-Fraction-Project-First-Draft
-I will be comparing the dark matter fraction of 15 galaxies with varying parameters to plot relationships between them.
+In this project, I will be computing the Dark Matter Fraction of 15 galaxies and comparing them to various parameters. 
